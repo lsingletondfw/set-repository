@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "hP3vCmgCP8MfUoXgYc29Ge",
+    "name" : "mit_FF_S3_Landing_Demo",
+    "type" : "MI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "40494"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Read from Local Flat file /opt/infa/IICS_Demo and write to S3 Landing zone.",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ {
+    "id" : "3RgziBIgcpkceuZczx0hso",
+    "name" : "CDWDemo_Linux",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "012VGL25000000000003"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}

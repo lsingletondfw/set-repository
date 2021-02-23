@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "9bTOMhh1KqmcLnw5vhKi0n",
+    "name" : "CDW-DL",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Demo Assets for the CDW-CDL SET team",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
